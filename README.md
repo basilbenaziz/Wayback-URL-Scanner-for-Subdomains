@@ -37,6 +37,6 @@ Ensure these tools are installed and available in your `PATH`.
 Clone this repository:
 
 ```bash
-git clone https://github.com/basilbenaziz/Wayback-URL-Scanner-for-Subdomains
+git clone https://github.com/basilbenaziz/Wayback-URL-Scanner-for-Subdomains.git
 cd wayback-url-scanner
 chmod +x scanner.sh
